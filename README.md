@@ -1,2 +1,1 @@
-# rxjs-examples
-examples for each rxjs method
+# rxjs-typescript-starter
